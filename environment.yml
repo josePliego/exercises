@@ -1,0 +1,23 @@
+name: sta663
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - jupyterlab
+  - ipywidgets
+  - numpy
+  - scikit-learn
+  - scikit-image
+  - pillow
+  - tqdm
+  - matplotlib
+  - autograd
+  - pytorch
+  - torchvision
+  - pandas
+  - pymc3
+  - Theano-PyMC
+  - arviz
+  - GitPython  

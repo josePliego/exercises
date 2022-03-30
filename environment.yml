@@ -20,4 +20,6 @@ dependencies:
   - pymc3
   - Theano-PyMC
   - arviz
-  - GitPython  
+  - GitPython
+  - statsmodels
+  - seaborn  
